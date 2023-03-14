@@ -8,4 +8,4 @@ The purpose of creating this graphic was to practice creating a choropleth map. 
 
 The reader should be able to see the states with the highest and lowest average loan amounts. Washington, DC, was a major outlier, and the "state" with the highest average loan debt per student. 
 
-See a static version of the map ![here](https://user-images.githubusercontent.com/123273072/225118165-dfbb0e34-0621-4e39-b7ed-0f732c3ad8e0.png).
+Here is a static version of the map: ![](https://user-images.githubusercontent.com/123273072/225118165-dfbb0e34-0621-4e39-b7ed-0f732c3ad8e0.png)
